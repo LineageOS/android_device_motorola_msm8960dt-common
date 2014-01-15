@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_82e7c211",
+        "filename": "liblight/lights.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 6186
+      },
+      "writtenOn": "2014-01-15T22:20:51Z",
+      "side": 1,
+      "message": "Uglyness, there is rgb_to_brightness right above :P",
+      "revId": "d1f33460c29dbc6d41a7d9490b9c90aa40f5c047",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_42f1cacc",
+        "filename": "liblight/lights.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 6186
+      },
+      "writtenOn": "2014-01-15T22:20:51Z",
+      "side": 1,
+      "message": "I think you should return -EINVAL here for buttons on Moto X.",
+      "revId": "d1f33460c29dbc6d41a7d9490b9c90aa40f5c047",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
