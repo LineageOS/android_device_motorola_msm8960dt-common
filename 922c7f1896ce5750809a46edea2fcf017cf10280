@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a54edaf_d7734cb3",
+        "filename": "msm8960dt.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-01-28T05:32:24Z",
+      "side": 1,
+      "message": "This change is inconsistent with both the symbolic link to data you are creating in Android.mk and the hardcoded value in prima/CORE/VOSS/ inc/wlan_hdd_misc.h\r\n\r\nI\u0027m really curious where this came from.",
+      "revId": "922c7f1896ce5750809a46edea2fcf017cf10280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
