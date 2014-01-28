@@ -16,6 +16,24 @@
       "revId": "922c7f1896ce5750809a46edea2fcf017cf10280",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a54edaf_976dd4ce",
+        "filename": "msm8960dt.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 8640
+      },
+      "writtenOn": "2014-01-28T05:44:53Z",
+      "side": 1,
+      "message": "See here https://www.codeaurora.org/cgit/quic/la/platform/vendor/qcom/msm8960/commit/msm8960.mk?h\u003dkk_2.7_rb1.22\u0026id\u003d5725b615efbba66ff8101f121ef7008312e9df8f\nand\nhttps://www.codeaurora.org/cgit/quic/la/platform/vendor/qcom/msm8960/commit/AndroidBoard.mk?h\u003dkk_2.7_rb1.22\u0026id\u003daac226e673b35d12b7ff396030adf49e9ba1776b\nThe template file is in system/etc/wifi wncess_service copies it to data from which it is symlinked.  Works perfectly on my devices",
+      "parentUuid": "1a54edaf_d7734cb3",
+      "revId": "922c7f1896ce5750809a46edea2fcf017cf10280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
