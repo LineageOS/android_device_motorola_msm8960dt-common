@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_23e6a2b4",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2015-04-03T19:26:49Z",
+      "side": 0,
+      "message": "intentional removal of AUDIO_DEVICE_OUT_ALL_SCO ?",
+      "revId": "fb04a18b51085b74fd3b8ad42add070f181097a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
