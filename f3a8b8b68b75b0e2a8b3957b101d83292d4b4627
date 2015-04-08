@@ -16,6 +16,24 @@
       "revId": "f3a8b8b68b75b0e2a8b3957b101d83292d4b4627",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_18921558",
+        "filename": "doze/src/com/cyanogenmod/settings/device/MotoDozeService.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-04-08T05:00:01Z",
+      "side": 1,
+      "message": "True, I should probably give the flat sensor functionality better names too.",
+      "parentUuid": "3ac371cc_9809e5e0",
+      "revId": "f3a8b8b68b75b0e2a8b3957b101d83292d4b4627",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
