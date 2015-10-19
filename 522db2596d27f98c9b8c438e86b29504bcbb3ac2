@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_8dcbf651",
+        "filename": "doze/src/com/cyanogenmod/settings/device/TouchscreenGestureSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-10-19T01:13:53Z",
+      "side": 1,
+      "message": "You should probably be removing this preference, not disabling it.",
+      "revId": "522db2596d27f98c9b8c438e86b29504bcbb3ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
