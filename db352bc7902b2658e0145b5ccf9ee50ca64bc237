@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_45763bdb",
+        "filename": "msm8960dt-common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-01-08T01:59:24Z",
+      "side": 1,
+      "message": "This should probably go in a separate section, no? libqc-opt is a QC performance library.",
+      "revId": "db352bc7902b2658e0145b5ccf9ee50ca64bc237",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
