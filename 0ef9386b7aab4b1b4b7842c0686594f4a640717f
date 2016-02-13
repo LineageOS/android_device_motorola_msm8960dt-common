@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_f8efd3ad",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-02-13T01:47:01Z",
+      "side": 0,
+      "message": "Unnecessary whitespace change.",
+      "revId": "0ef9386b7aab4b1b4b7842c0686594f4a640717f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_d8f20f9b",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-02-13T01:47:01Z",
+      "side": 0,
+      "message": "Quotes are fine, no need to change.",
+      "revId": "0ef9386b7aab4b1b4b7842c0686594f4a640717f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_5834df4a",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-02-13T01:47:01Z",
+      "side": 0,
+      "message": "Quotes are fine, no need to change.",
+      "revId": "0ef9386b7aab4b1b4b7842c0686594f4a640717f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
