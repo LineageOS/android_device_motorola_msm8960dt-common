@@ -16,6 +16,24 @@
       "revId": "5f77d14deb5cd612c4ccfade661af9d2179a948c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_1ee64f18",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-02-13T08:58:50Z",
+      "side": 0,
+      "message": "I\u0027m pretty sure since mpdecision is disabled by default, both cores are online to start with. Not 100% sure though.",
+      "parentUuid": "ffb9cba7_bed70324",
+      "revId": "5f77d14deb5cd612c4ccfade661af9d2179a948c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
