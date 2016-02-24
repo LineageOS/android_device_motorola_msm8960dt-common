@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_e105c17b",
+        "filename": "sepolicy/charge_only_mode.te",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-02-24T07:15:42Z",
+      "side": 1,
+      "message": "Removing the sys_boot capability results in this mostly working. There must be something else triggering a reboot immediately after startup.",
+      "revId": "2a5ea87dd4acb2acd361721febcc4d6a2a6d12e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
