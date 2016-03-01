@@ -16,6 +16,24 @@
       "revId": "2a5ea87dd4acb2acd361721febcc4d6a2a6d12e8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_8918a31d",
+        "filename": "sepolicy/charge_only_mode.te",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-03-01T11:29:36Z",
+      "side": 1,
+      "message": "Im not very familiar with the SELinux policies. What would adding the sys_boot capability do?",
+      "parentUuid": "ffb9cba7_e105c17b",
+      "revId": "2a5ea87dd4acb2acd361721febcc4d6a2a6d12e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
