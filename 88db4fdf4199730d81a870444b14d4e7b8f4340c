@@ -34,6 +34,24 @@
       "revId": "88db4fdf4199730d81a870444b14d4e7b8f4340c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_4a6ab780",
+        "filename": "dtbtool/dtbToolMoto.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-03-28T20:33:59Z",
+      "side": 0,
+      "message": "derp, I totally read that as dtb_file.",
+      "parentUuid": "7faddb67_ca454719",
+      "revId": "88db4fdf4199730d81a870444b14d4e7b8f4340c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
