@@ -52,6 +52,24 @@
       "revId": "88db4fdf4199730d81a870444b14d4e7b8f4340c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_aab1ebe3",
+        "filename": "dtbtool/dtbToolMoto.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-03-28T23:46:35Z",
+      "side": 0,
+      "message": "I misread it originally too :p",
+      "parentUuid": "7faddb67_4a6ab780",
+      "revId": "88db4fdf4199730d81a870444b14d4e7b8f4340c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
