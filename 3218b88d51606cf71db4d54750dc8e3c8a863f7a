@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_b4172eee",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 537,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-04-16T18:36:21Z",
+      "side": 1,
+      "message": "This shouldn\u0027t be a oneshot",
+      "range": {
+        "startLine": 537,
+        "startChar": 4,
+        "endLine": 537,
+        "endChar": 11
+      },
+      "revId": "3218b88d51606cf71db4d54750dc8e3c8a863f7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_941a3215",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 538,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-04-16T18:36:21Z",
+      "side": 1,
+      "message": "This is definitely wrong.",
+      "range": {
+        "startLine": 538,
+        "startChar": 3,
+        "endLine": 538,
+        "endChar": 32
+      },
+      "revId": "3218b88d51606cf71db4d54750dc8e3c8a863f7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
