@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_1c7d341c",
+        "filename": "doze/src/com/cyanogenmod/settings/device/MotoDozeService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-10-13T04:17:33Z",
+      "side": 1,
+      "message": "m-prefixed variables imply a member variable, while this is a local variable.",
+      "range": {
+        "startLine": 247,
+        "startChar": 19,
+        "endLine": 247,
+        "endChar": 37
+      },
+      "revId": "a266c4b0d1cef7cdbdea04a580695c19294aa860",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_fc79702f",
+        "filename": "doze/src/com/cyanogenmod/settings/device/MotoDozeService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 248,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-10-13T04:17:33Z",
+      "side": 1,
+      "message": "Why not just replace this with new long[]{0, 200, 100, 400} ?",
+      "range": {
+        "startLine": 248,
+        "startChar": 22,
+        "endLine": 248,
+        "endChar": 40
+      },
+      "revId": "a266c4b0d1cef7cdbdea04a580695c19294aa860",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
